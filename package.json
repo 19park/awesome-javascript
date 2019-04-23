@@ -1,0 +1,11 @@
+{
+  "name": "awesome-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/19park/awesome-javascript.git",
+  "author": "박정환 <19park@wholedoc.net>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
